@@ -1,7 +1,3 @@
-
-
-// BillGeneral
-
 package bills;
 
 public class BillGeneral implements Bill {
